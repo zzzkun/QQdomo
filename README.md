@@ -1,2 +1,4 @@
 # QQdomo
-用C3动画做的
+http://119.29.94.99/daxiong/QQBrowser/
+
+
